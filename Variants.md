@@ -1,4 +1,3 @@
-# Variants
 To use variants, you would need to use the command !variants. The usage of this command is:
 <br>
 `!variants <CID> <variant_style> <integer>`
