@@ -1,4 +1,4 @@
-# Cosmetic Commands
+## Cosmetic Commands
 * !skin - Sets the outfit of the client using the outfits name.<br>
 ``Usage: !skin <skin name>``
 
@@ -47,7 +47,13 @@
 * !legacypickaxe - Sets the pickaxe of the client using Pickaxe_            
 ``Usage: !legacypickaxe <pickaxe>``
 
-# Party Commands
+* !point - Sets pickaxe using PICKAXE_ID & does 'Point it Out'              
+``Usage: !point <PICKAXE_ID>``
+
+* !searchpoint - Sets pickaxe using pickaxe name & does 'Point it Out'      
+``Usage: !searchpoint <pickaxe name>``
+
+## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
 
@@ -56,12 +62,6 @@
 
 * !bp - Sets the battlepass info of the client.                             
 ``Usage: !bp <level> <xp boost> <friend xp boost>``
-
-* !point - Sets pickaxe using PICKAXE_ID & does 'Point it Out'              
-``Usage: !point <PICKAXE_ID>``
-
-* !searchpoint - Sets pickaxe using pickaxe name & does 'Point it Out'      
-``Usage: !searchpoint <pickaxe name>``
 
 * !echo - Sends message to party chat with the given content.               
 ``Usage: !echo <message> ``
