@@ -1,3 +1,4 @@
+# Cosmetic Commands
 * !skin - Sets the outfit of the client using the outfits name.<br>
 ``Usage: !skin <skin name>``
 
@@ -46,6 +47,7 @@
 * !legacypickaxe - Sets the pickaxe of the client using Pickaxe_            
 ``Usage: !legacypickaxe <pickaxe>``
 
+# Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
 
