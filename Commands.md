@@ -1,5 +1,4 @@
-
-* !skin - Sets the outfit of the client using the outfits name.
+* !skin - Sets the outfit of the client using the outfits name.<br>
 ``Usage: !skin <skin name>``
 
 * !backpack - Sets the backpack of the client using the backpacks name.     
