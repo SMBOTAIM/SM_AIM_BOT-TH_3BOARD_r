@@ -77,3 +77,6 @@
 
 * !echo - Sends message to party chat with the given content.               
 ``Usage: !echo <message> ``
+
+* !status - Sends and sets the status.
+``Usage: !status <text>``
