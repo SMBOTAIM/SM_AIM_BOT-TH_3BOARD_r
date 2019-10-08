@@ -11,6 +11,12 @@
 * !pickaxe - Sets the pickaxe of the client using the pickaxe name.         
 ``Usage: !pickaxe <pickaxe name>``
 
+* !pet - Sets the pet (backpack) of the client using the pets name.         
+``Usage: !pet <pet name>``
+
+* !emote - Sets the emoji of the client using the emojis name.         
+``Usage: !emoji <emoji name>``
+
 * !variants - Creates the variants list by the variants you set.            
 ``Usage: !variants <CID> <style type> <integer>``
 
@@ -37,6 +43,12 @@
 
 * EID_ - Sets the emote of the client using EID.                            
 ``Usage: <EID>``
+
+* PetCarrier_ - Sets the pet of the client using PetCarrier_.                            
+``Usage: <PetCarrier_>``
+
+* Emoji_ - Sets the emoji of the client using Emoji_.
+``Usage: <Emoji_>``
 
 * !stop - Clears/stops the emote currently playing.                         
 ``Usage: !stop``
