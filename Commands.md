@@ -72,7 +72,7 @@
 * !unready/!sitin - Sets the readiness of the client to unready.                   
 ``Usage: !unready``
 
-* !sitout - Sets the readiness of the client to SittingOut.
+* !sitout - Sets the readiness of the client to SittingOut.<br>
 ``Usage: !unready``
 
 * !bp - Sets the battlepass info of the client.                             
@@ -84,11 +84,11 @@
 * !status - Sends and sets the status.<br>
 ``Usage: !status <text>``
 
-* !leave - Leaves the current party.
+* !leave - Leaves the current party.<br>
 ``Usage: !leave``
 
-* !kick - Kicks the inputted user.
+* !kick - Kicks the inputted user.<br>
 ``Usage: !kick <username>``
 
-* !promote - Promotes the inputted user.
-``Usage: !promote <username>``>
+* !promote - Promotes the inputted user.<br>
+``Usage: !promote <username>``
