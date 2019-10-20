@@ -35,4 +35,6 @@ Here is the full list of variant styles for you to play around with styles!
 
 * emissive (Optional[int]) – The emissive number you want to use.
 
+If you don't know which variant style you need to use, I'd recommend searching for it on https://fnserver.terax235.com/ as it tells you the exact variant style the variants are for a skin.
+
 If you need help, feel free to join the discord support server listed on the main README.md.
