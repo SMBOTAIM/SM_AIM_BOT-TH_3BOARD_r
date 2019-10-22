@@ -23,6 +23,12 @@
 * !purpleskull - Sets the outfit of the client to Purple Skull Trooper.     
 ``Usage: !purpleskull``
 
+* !pinkghoul - Sets the outfit of the client to Pink Ghoul Trooper.     
+``Usage: !pinkghoul``
+
+* !brainiacghoul - Sets the outfit of the client to Brainiac Ghoul Trooper.     
+``Usage: !brainiacghoul``
+
 * !purpleportal - Sets the backpack of the client to Purple Ghost Portal.   
 ``Usage: !purpleportal``
 
@@ -90,5 +96,8 @@
 * !kick - Kicks the inputted user.<br>
 ``Usage: !kick <username>``
 
-* !promote - Promotes the inputted user.<br>
-``Usage: !promote <username>``
+* Playlist_ - Sets the lobbies selected playlist.<br>
+``Usage: <Playlist ID>``
+
+* !platform - Sets the clients platform.<br>
+``Usage: !platform <platform>``
