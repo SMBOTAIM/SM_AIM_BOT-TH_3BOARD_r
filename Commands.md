@@ -20,6 +20,9 @@
 * !variants - Creates the variants list by the variants you set.            
 ``Usage: !variants <CID> <style type> <integer>``
 
+* !contrail - Sets the contrail of the client using the contrail name.         
+``Usage: !contrail <contrail name>``
+
 * !purpleskull - Sets the outfit of the client to Purple Skull Trooper.     
 ``Usage: !purpleskull``
 
@@ -55,6 +58,9 @@
 
 * Emoji_ - Sets the emoji of the client using Emoji_.
 ``Usage: <Emoji_>``
+
+* Trails_ - Sets the contrail of the client using Trails_.
+``Usage: <Trails_>``
 
 * !stop - Clears/stops the emote currently playing.                         
 ``Usage: !stop``
