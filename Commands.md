@@ -77,6 +77,9 @@
 * !searchpoint - Sets pickaxe using pickaxe name & does 'Point it Out'      
 ``Usage: !searchpoint <pickaxe name>``
 
+* !copy - Copies the cosmetic loadout of the defined user. If user is left blank, the message author will be used.
+``Usage: !copy <name [optional]>``
+
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
