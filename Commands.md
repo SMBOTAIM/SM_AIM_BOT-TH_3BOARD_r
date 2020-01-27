@@ -29,9 +29,6 @@
 * !pinkghoul - Sets the outfit of the client to Pink Ghoul Trooper.     
 ``Usage: !pinkghoul``
 
-* !brainiacghoul - Sets the outfit of the client to Brainiac Ghoul Trooper.     
-``Usage: !brainiacghoul``
-
 * !purpleportal - Sets the backpack of the client to Purple Ghost Portal.   
 ``Usage: !purpleportal``
 
@@ -71,11 +68,8 @@
 * !legacypickaxe - Sets the pickaxe of the client using Pickaxe_            
 ``Usage: !legacypickaxe <pickaxe>``
 
-* !point - Sets pickaxe using PICKAXE_ID & does 'Point it Out'              
+* !point - Sets pickaxe using PICKAXE_ID or display name & does 'Point it Out'              
 ``Usage: !point <PICKAXE_ID>``
-
-* !searchpoint - Sets pickaxe using pickaxe name & does 'Point it Out'      
-``Usage: !searchpoint <pickaxe name>``
 
 * !copy - Copies the cosmetic loadout of the defined user. If user is left blank, the message author will be used.
 ``Usage: !copy <name [optional]>``
