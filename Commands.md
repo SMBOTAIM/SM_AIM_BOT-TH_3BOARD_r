@@ -74,6 +74,12 @@
 * !copy - Copies the cosmetic loadout of the defined user. If user is left blank, the message author will be used.
 ``Usage: !copy <name [optional]>``
 
+* !hologram - Shortcut for equipping the skin ``CID_VIP_Athena_Commando_M_GalileoGondola_SG``.
+``Usage: !hologram``
+
+* !gift - Try it yourself to find out what happens.
+``Usage: !gift <content>``
+
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
