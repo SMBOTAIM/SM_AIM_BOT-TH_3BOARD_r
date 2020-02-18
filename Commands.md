@@ -77,9 +77,6 @@
 * !hologram - Shortcut for equipping the skin ``CID_VIP_Athena_Commando_M_GalileoGondola_SG``.
 ``Usage: !hologram``
 
-* !gift - Try it yourself to find out what happens.
-``Usage: !gift <content>``
-
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
@@ -110,3 +107,6 @@
 
 * !platform - Sets the clients platform.<br>
 ``Usage: !platform <platform>``
+
+* !gift - Try it yourself to find out what happens.
+``Usage: !gift <content>``
