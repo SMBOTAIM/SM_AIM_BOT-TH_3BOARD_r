@@ -32,7 +32,7 @@
 * !purpleportal - Sets the backpack of the client to Purple Ghost Portal.   
 ``Usage: !purpleportal``
 
-* !checkeredrenegade - Sets the outfit of the client to Checkered Renegade. 
+* !checkeredrenegade - Sets the outfit of the client to Checkered Renegade. <br>
 ``Usage: !checkeredrenegade``
 
 * !banner - Sets the banner of the client.                                  
@@ -53,10 +53,10 @@
 * PetCarrier_ - Sets the pet of the client using PetCarrier_.                            
 ``Usage: <PetCarrier_>``
 
-* Emoji_ - Sets the emoji of the client using Emoji_.
+* Emoji_ - Sets the emoji of the client using Emoji_.<br>
 ``Usage: <Emoji_>``
 
-* Trails_ - Sets the contrail of the client using Trails_.
+* Trails_ - Sets the contrail of the client using Trails_.<br>
 ``Usage: <Trails_>``
 
 * !stop - Clears/stops the emote currently playing.                         
@@ -71,10 +71,10 @@
 * !point - Sets pickaxe using PICKAXE_ID or display name & does 'Point it Out'              
 ``Usage: !point <PICKAXE_ID>``
 
-* !copy - Copies the cosmetic loadout of the defined user. If user is left blank, the message author will be used.
+* !copy - Copies the cosmetic loadout of the defined user. If user is left blank, the message author will be used.<br>
 ``Usage: !copy <name [optional]>``
 
-* !hologram - Shortcut for equipping the skin ``CID_VIP_Athena_Commando_M_GalileoGondola_SG``.
+* !hologram - Shortcut for equipping the skin ``CID_VIP_Athena_Commando_M_GalileoGondola_SG``.<br>
 ``Usage: !hologram``
 
 ## Party Commands
@@ -108,5 +108,8 @@
 * !platform - Sets the clients platform.<br>
 ``Usage: !platform <platform>``
 
-* !gift - Try it yourself to find out what happens.
+* !gift - Try it yourself to find out what happens.<br>
 ``Usage: !gift <content>``
+
+* !matchmakingcode - Sets the parties custom matchmaking code.<br>
+``Usage: !matchmakingcode <code>``
