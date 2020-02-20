@@ -77,6 +77,12 @@
 * !hologram - Shortcut for equipping the skin ``CID_VIP_Athena_Commando_M_GalileoGondola_SG``.<br>
 ``Usage: !hologram``
 
+* !ninja - Shortcut for equipping the skin ``CID_605_Athena_Commando_M_TourBus``.<br>
+``Usage: !ninja``
+
+* !ponpon - Shortcut for equipping the emote ``EID_TourBus``.<br>
+``Usage: !ponpon``
+
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
