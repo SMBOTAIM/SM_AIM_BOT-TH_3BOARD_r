@@ -83,6 +83,9 @@
 * !ponpon - Shortcut for equipping the emote ``EID_TourBus``.<br>
 ``Usage: !ponpon``
 
+* !enlightened - Sets the enlightened value of a skin (used for skins such as glitched Scratch or Golden Peely).<br>
+``Usage: !enlightened <cid> <season> <level>``
+
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``
