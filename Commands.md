@@ -24,7 +24,8 @@
 ``Example: !emoji Snowball``
 
 * !variants - Creates the variants list by the variants you set.            
-``Usage: !variants <CID> <style type> <integer>``
+``Usage: !variants <CID> <style type> <integer>``<br>
+``Example: !variants CID_030_Athena_Commando_M_Halloween clothing_color 1``
 
 * !contrail - Sets the contrail of the client using the contrail name.         
 ``Usage: !contrail <contrail name>``<br>
