@@ -139,25 +139,25 @@
 ``Example: !status Presence Unknown``
 
 * !leave - Leaves the current party.<br>
-``Usage: !leave``
+``Usage: !leave``<br>
 ``Example: !leave``
 
 * !kick - Kicks the inputted user.<br>
-``Usage: !kick <username>``
+``Usage: !kick <username>``<br>
 ``Example: !kick Cxnyaa``
 
 * Playlist_ - Sets the lobbies selected playlist.<br>
-``Usage: <Playlist ID>``
+``Usage: <Playlist ID>``<br>
 ``Example: Playlist_Tank_Solo``
 
 * !platform - Sets the clients platform.<br>
-``Usage: !platform <platform>``
+``Usage: !platform <platform>``<br>
 ``Example: !platform PSN``
 
 * !gift - Try it yourself to find out what happens.<br>
-``Usage: !gift <content>``
+``Usage: !gift <content>``<br>
 ``Example: !gift is a joke command.``
 
 * !matchmakingcode - Sets the parties custom matchmaking code.<br>
-``Usage: !matchmakingcode <code>``
+``Usage: !matchmakingcode <code>``<br>
 ``Example: !matchmakingcode solo123``
