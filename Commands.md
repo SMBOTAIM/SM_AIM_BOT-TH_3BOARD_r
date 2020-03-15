@@ -115,6 +115,10 @@
 ``Usage: !enlightened <cid> <season> <level>``<br>
 ``Example: !enlightened CID_701_Athena_Commando_M_BananaAgent 2 350``
 
+* !goldenpeely - Sets the outfit of the client to Golden Peely (shortcut for!enlightened CID_701_Athena_Commando_M_BananaAgent 2 350).<br>
+``Usage: !goldenpeely``
+``Example: !goldenpeely``
+
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``<br>
