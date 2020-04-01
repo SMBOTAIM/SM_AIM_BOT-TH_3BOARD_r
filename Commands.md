@@ -48,7 +48,7 @@
 ``Example: !checkeredrenegade``
 
 * !banner - Sets the banner of the client.                                  
-``Usage: !banner <icon> <colour> <level>``
+``Usage: !banner <icon> <colour> <level>``<br>
 ``!banner BRSeason01 defaultcolor15 100``
 
 * CID_ - Sets the outfit of the client using CID.                           
