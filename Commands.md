@@ -119,6 +119,10 @@
 ``Usage: !goldenpeely``
 ``Example: !goldenpeely``
 
+* !random - Randomly finds & equips a skin.
+``Usage: !random``
+``Example: !random``
+
 ## Party Commands
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``<br>
