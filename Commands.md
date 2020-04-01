@@ -119,8 +119,8 @@
 ``Usage: !goldenpeely``
 ``Example: !goldenpeely``
 
-* !random - Randomly finds & equips a skin.
-``Usage: !random``
+* !random - Randomly finds & equips a skin.<br>
+``Usage: !random``<br>
 ``Example: !random``
 
 ## Party Commands
