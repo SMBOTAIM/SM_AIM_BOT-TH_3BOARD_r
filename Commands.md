@@ -47,10 +47,6 @@
 ``Usage: !checkeredrenegade``<br>
 ``Example: !checkeredrenegade``
 
-* !banner - Sets the banner of the client.                                  
-``Usage: !banner <icon> <colour> <level>``<br>
-``!banner BRSeason01 defaultcolor15 100``
-
 * CID_ - Sets the outfit of the client using CID.                           
 ``Usage: <CID>``<br>
 ``Example: CID_047_Athena_Commando_F_HolidayReindeer``
@@ -82,10 +78,6 @@
 * !stop - Clears/stops the emote currently playing.                         
 ``Usage: !stop``<br>
 ``Example: !stop``
-
-* !help - Displays a link to this webpage.                                  
-``Usage: !help``<br>
-``Example: !help``
 
 * !legacypickaxe - Sets the pickaxe of the client using Pickaxe_            
 ``Usage: !legacypickaxe <pickaxe>``<br>
@@ -123,7 +115,19 @@
 ``Usage: !random``<br>
 ``Example: !random``
 
+* !nobackpack - Clears the currently set backpack.<br>
+``Usage: !nobackpack``<br>
+``Example: !nobackpack``
+
+* !nopet - Clears the currently set pet.<br>
+``Usage: !nopet``<br>
+``Example: !nopet``
+
 ## Party Commands
+* !help - Displays a link to this webpage.                                  
+``Usage: !help``<br>
+``Example: !help``
+
 * !ready - Sets the readiness of the client to ready.                       
 ``Usage: !ready``<br>
 ``Example: !ready``
@@ -139,6 +143,10 @@
 * !bp - Sets the battlepass info of the client.                             
 ``Usage: !bp <level> <xp boost> <friend xp boost>``<br>
 ``Example: !bp 100 0 0``
+
+* !banner - Sets the banner of the client.                                  
+``Usage: !banner <icon> <colour> <level>``<br>
+``!banner BRSeason01 defaultcolor15 100``
 
 * !echo - Sends message to party chat with the given content.               
 ``Usage: !echo <message> ``<br>
