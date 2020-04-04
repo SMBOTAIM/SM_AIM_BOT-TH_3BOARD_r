@@ -123,6 +123,10 @@
 ``Usage: !nopet``<br>
 ``Example: !nopet``
 
+* !nocontrail - Clears the currently set contrail.
+``Usage: !nocontrail``<br>
+``Example: !nocontrail``
+
 ## Party Commands
 * !help - Displays a link to this webpage.                                  
 ``Usage: !help``<br>
@@ -150,7 +154,7 @@
 
 * !echo - Sends message to party chat with the given content.               
 ``Usage: !echo <message> ``<br>
-``Example: !echo Rusty Buckets!``
+``Example: !echo true lulw``
 
 * !status - Sends and sets the status.<br>
 ``Usage: !status <text>``<br>
