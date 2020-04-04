@@ -123,7 +123,7 @@
 ``Usage: !nopet``<br>
 ``Example: !nopet``
 
-* !nocontrail - Clears the currently set contrail.
+* !nocontrail - Clears the currently set contrail.<br>
 ``Usage: !nocontrail``<br>
 ``Example: !nocontrail``
 
