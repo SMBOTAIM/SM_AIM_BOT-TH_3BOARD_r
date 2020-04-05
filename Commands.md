@@ -191,3 +191,7 @@
 * !lobby - Sets the client to normal pre-game lobby state.<br>
 ``Usage: !lobby``<br>
 ``Example: !lobby``
+
+* !copy - Joins the party of the defined friend. If friend is left blank, the message author will be used.<br>
+``Usage: !join <name [optional]>``<br>
+``Example: !join Terbau``
