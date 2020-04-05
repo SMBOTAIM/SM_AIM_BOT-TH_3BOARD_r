@@ -183,3 +183,11 @@
 * !matchmakingcode - Sets the parties custom matchmaking code.<br>
 ``Usage: !matchmakingcode <code>``<br>
 ``Example: !matchmakingcode solo123``
+
+* !match - Sets the client to the "In Match" state.<br>
+``Usage: !match <players remaining>``<br>
+``Example: !match 69``
+
+* !lobby - Sets the client to normal pre-game lobby state.<br>
+``Usage: !lobby``<br>
+``Example: !lobby``
