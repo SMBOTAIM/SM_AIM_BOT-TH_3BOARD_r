@@ -145,8 +145,8 @@
 ``Example: !sitout``
 
 * !bp - Sets the battlepass info of the client.                             
-``Usage: !bp <level> <xp boost> <friend xp boost>``<br>
-``Example: !bp 100 0 0``
+``Usage: !bp <tier>``<br>
+``Example: !bp 100``
 
 * !banner - Sets the banner of the client.                                  
 ``Usage: !banner <icon> <colour> <level>``<br>
