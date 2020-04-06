@@ -185,13 +185,13 @@
 ``Example: !matchmakingcode solo123``
 
 * !match - Sets the client to the "In Match" state.<br>
-``Usage: !match <players remaining>``<br>
-``Example: !match 69``
+``Usage: !match <players_remaining[optional] elapsed_time[optional]>``<br>
+``Example: !match 69 420``
 
 * !lobby - Sets the client to normal pre-game lobby state.<br>
 ``Usage: !lobby``<br>
 ``Example: !lobby``
 
 * !join - Joins the party of the defined friend. If friend is left blank, the message author will be used.<br>
-``Usage: !join <name [optional]>``<br>
+``Usage: !join <name[optional]>``<br>
 ``Example: !join Terbau``
