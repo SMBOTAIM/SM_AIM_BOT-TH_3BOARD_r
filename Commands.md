@@ -195,3 +195,7 @@
 * !join - Joins the party of the defined friend. If friend is left blank, the message author will be used.<br>
 ``Usage: !join <name[optional]>``<br>
 ``Example: !join Terbau``
+
+* !reload - Reloads all data from the configuration file.<br>
+``Usage: !reload``<br>
+``Example: !reload``
