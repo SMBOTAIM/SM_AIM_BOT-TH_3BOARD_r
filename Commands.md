@@ -172,7 +172,7 @@
 ``Usage: <Playlist ID>``<br>
 ``Example: Playlist_Tank_Solo``
 
-* !gift - Try it yourself to find out what happens.<br>
+* !gift - Plays the "Never Gonna" emote.<br>
 ``Usage: !gift <content>``<br>
 ``Example: !gift is a joke command.``
 
