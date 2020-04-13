@@ -172,10 +172,6 @@
 ``Usage: <Playlist ID>``<br>
 ``Example: Playlist_Tank_Solo``
 
-* !platform - Sets the clients platform.<br>
-``Usage: !platform <platform>``<br>
-``Example: !platform PSN``
-
 * !gift - Try it yourself to find out what happens.<br>
 ``Usage: !gift <content>``<br>
 ``Example: !gift is a joke command.``
