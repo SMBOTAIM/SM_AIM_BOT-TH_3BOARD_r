@@ -181,7 +181,7 @@
 ``Example: !matchmakingcode solo123``
 
 * !match - Sets the client to the "In Match" state. If the first argument is 'progressive', the players remaining will gradually drop to mimic a real game.<br>
-```Usages: !match <players_remaining[optional] elapsed_time[optional]>``
+```Usages: !match <players_remaining[optional] elapsed_time[optional]>
 !match progressive```
 ``Example: !match 69 420``
 
