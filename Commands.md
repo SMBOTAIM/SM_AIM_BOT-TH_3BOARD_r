@@ -196,3 +196,7 @@
 * !reload - Reloads all data from the configuration file.<br>
 ``Usage: !reload``<br>
 ``Example: !reload``
+
+* !playlist - Sets the lobbies selected playlist using playlist name.<br>
+``Usage: !playlist <playlist name>``<br>
+``Example: !playlist Food Fight``
