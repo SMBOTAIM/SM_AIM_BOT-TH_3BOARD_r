@@ -111,9 +111,9 @@
 ``Usage: !goldenpeely``
 ``Example: !goldenpeely``
 
-* !random - Randomly finds & equips a skin.<br>
-``Usage: !random``<br>
-``Example: !random``
+* !random - Randomly finds & equips a skin. Types currently include ``skin``, ``backpack`` & ``emote``. If type is left blank, a random skin will be equipped.<br>
+``Usage: !random emote``<br>
+``Example: !random <type [optional]>``
 
 * !nobackpack - Clears the currently set backpack.<br>
 ``Usage: !nobackpack``<br>
