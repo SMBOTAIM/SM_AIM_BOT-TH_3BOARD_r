@@ -200,3 +200,7 @@
 * !playlist - Sets the lobbies selected playlist using playlist name.<br>
 ``Usage: !playlist <playlist name>``<br>
 ``Example: !playlist Food Fight``
+
+* !invite - Invites the defined friend to the party. If friend is left blank, the message author will be used.<br>
+``Usage: !invite <name[optional]>``<br>
+``Example: !invite Terbau``
